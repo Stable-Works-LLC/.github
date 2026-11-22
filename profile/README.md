@@ -7,7 +7,7 @@
 
 <h3 align="center">Advanced systems and digital twins</h3>
 
-<p align="center"><a href="https://stableworks.us">stableworks.us</a></p>
+<p align="center"><a href="https://stablewerx.com">stablewerx.com</a></p>
 
 ---
 
