@@ -25,7 +25,7 @@ One core, three fields. A fix in one reaches all of them.
 |---|---|
 | **War Horse** | Battlespace awareness. Every Cursor on Target event is signed on the device with ML-DSA-65, mission chat is sealed with ML-KEM-768, and ATAK, WinTAK, and iTAK join on day one. |
 | **PlowHorse** | Field awareness. A live map of every person and machine on the farm, with crew chat, push to talk, field zones, and maps that keep working without signal. |
-| **Workhorse** | Warehouses and logistics yards, next. |
+| **Workhorse** | Warehouses, yards, and logistics fleets on one live map, with machines that sign their own reports. Now taking pilot sites. |
 
 ## How we work
 
